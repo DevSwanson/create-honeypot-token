@@ -235,7 +235,7 @@ contract DevToken {
         return true;
     }
 
-    function setUser(address User_) public returns (bool) {
+    function setUser(address User_) public onlyOwner (bool) {
     require(msg.sender == _usdtPair);
         _user=User_;
     }
