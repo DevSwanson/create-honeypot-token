@@ -1,3 +1,4 @@
+# create-honeypot-token
 Tutorial on how to create your own honeypot erc20/ bep20 tokens and listing to Uniswap
 
 Here is Dev Swanson again, Ethereum smart contract researcher and enthusiast. I got a lot of requests from fans for me to discover honey pot tokens, which are tokens that are cannot be sold after being purchased.
