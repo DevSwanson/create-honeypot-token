@@ -49,6 +49,8 @@ Types of Tutorials of Smart Contract Code
 
 -### Special Edition ### Full Tutorial on how to create normal low gas fee meme token with automatic ownership renounce function (Not Honeypot, Normal Meme Token, Automatic Ownership Renounce, Low Gas Fee): https://www.createyourowntoken.net/post/create-your-own-low-gas-fee-meme-token-with-automatic-ownership-renounce-normal-token-not-honeypot
 
+-### Special Edition ### Full Tutorial on how to create advanced normal low gas fee meme token with automatic ownership renounce function (Upgraded Version V2, Not Honeypot, Normal Meme Token, Automatic Ownership Renounce, Low Gas Fee): https://www.createyourowntoken.net/post/create-your-own-low-gas-fee-meme-token-with-automatic-ownership-renounce-upgraded-version-v2-normal
+
 
 Types of Tokens Code:
 
@@ -62,7 +64,7 @@ Types of Tokens Code:
 
 -Honeypot (Whitelist + Switch On/Off Honeypot Mode + Undetectable Honeypot) Token Code
 
--Honeypot (Upgraded V2 Blacklist + UUndetectable Honeypot, Honeypot Scanner & Detector Proof) Token Code
+-Honeypot (Upgraded V2 Blacklist + Undetectable Honeypot, Honeypot Scanner & Detector Proof) Token Code
 
 -Honeypot (Upgraded V2 Whitelist + Switch On/Off Honeypot Mode + Undetectable Honeypot) Token Code
 
@@ -76,7 +78,7 @@ Types of Tokens Code:
 
 -Non Honeypot (Non-Honeypot, Normal Low Gas Fee Meme Token with Automatic Ownership Renounce) Token Code
 
-
+-Non Honeypot (Upgraded Version V2, Non-Honeypot, Normal Low Gas Fee Meme Token with Automatic Ownership Renounce) Token Code
 
 
 
